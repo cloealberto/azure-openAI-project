@@ -11,17 +11,17 @@ Este projeto visa utilizar Inteligência Artificial para realizar o reconhecimen
 
 1. Selecionei imagens contendo textos para testar o reconhecimento.
 2. Utilizei a ferramenta Azure OCR para realizar a extração de texto das imagens.
-3. Salvei os resultados de texto extraído em arquivos `.txt` na pasta `output`.
+3. Salvei os resultados de texto extraído em arquivos `.pdf` na pasta `output`.
 
 ## Imagens Processadas
 
 ### Imagem 1: 
-![Imagem 1](inputs/imagem1.png)
+![Imagem 1](inputs/azure2.png)
 **Texto extraído**:  
 [conteúdo do arquivo output/resultado_imagem1.txt]
 
 ### Imagem 2: 
-![Imagem 2](inputs/imagem2.png)
+![Imagem 2](inputs/azure6.png)
 **Texto extraído**:  
 [conteúdo do arquivo output/resultado_imagem2.txt]
 
